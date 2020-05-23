@@ -617,7 +617,7 @@ line-height: 1.8;
 /* End My Framework */
 /* Start Media Query */
 
-@media (max-width: 900px) {
+@media screen and (max-width: 995px) , screen and (max-height: 700px){
   .features .feat {
     width: 95%;
   }
