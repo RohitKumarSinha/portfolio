@@ -626,7 +626,7 @@ line-height: 1.8;
   }
   .about-me .image img {
     width: 60%;
-    height: 70%;
+    height: 100%;
     margin: 0 25%;
   }
   .about-me .info, .about-me .info .hobbies .content {
