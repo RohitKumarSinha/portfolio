@@ -619,7 +619,7 @@ line-height: 1.8;
 
 @media screen and (max-width: 995px) , screen and (max-height: 700px){
   body{
-    font-size: large;
+    font-size: x-large;
   }
   .features .feat {
     width: 95%;
