@@ -608,7 +608,7 @@ line-height: 1.8;
   color: #888;
 }
 .hr{
-  margin: 30px 0 30px 40px ;
+  margin: 30px 0 30px 30px ;
   background-color: #999;
   height: 1px;
   border: 0;
@@ -618,6 +618,9 @@ line-height: 1.8;
 /* Start Media Query */
 
 @media screen and (max-width: 995px) , screen and (max-height: 700px){
+  body{
+    font-size: large;
+  }
   .features .feat {
     width: 95%;
   }
