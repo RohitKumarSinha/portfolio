@@ -617,7 +617,7 @@ line-height: 1.8;
 /* End My Framework */
 /* Start Media Query */
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .features .feat {
     width: 95%;
   }
@@ -625,7 +625,7 @@ line-height: 1.8;
     width: 100%;
   }
   .about-me .image img {
-    width: 50%;
+    width: 60%;
     height: 70%;
     margin: 0 25%;
   }
